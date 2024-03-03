@@ -1,4 +1,8 @@
 baseURL = 'https://corvallisfoodblogger.github.io/corvallis_food_blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Corvallis Food Blog'
 theme = "ananke"
+[params]
+  subtitle = 'Reviews of Corvallis Restaurants'
+  [params.contact]
+    email = 'corvallisfoodblog@gmail.com'
